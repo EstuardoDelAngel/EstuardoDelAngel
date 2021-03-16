@@ -1,3 +1,5 @@
+##this is probably not very good but wow look it's one of the first programs i was actually kind of proud of
+
 from turtle import *
 from math import *
 from time import *
