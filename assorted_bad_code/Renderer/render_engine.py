@@ -1,3 +1,5 @@
+##the colours only work on some computers for some reason but i'm too lazy to debug  : )
+
 from turtle import *
 from math import sqrt, sin, cos, radians
 from importer import import_obj, import_mtl
